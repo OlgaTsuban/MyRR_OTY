@@ -1,5 +1,5 @@
 def funct1 (a):
-    pass
+    return a
 
 def funct2 (b):
     return b
